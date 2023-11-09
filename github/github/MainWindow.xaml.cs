@@ -30,6 +30,7 @@ namespace github
 
         private void myButton_Click(object sender, RoutedEventArgs e)
         {
+        // kill yourself fat fuck
             myButton.Content = "Clicked";
         }
     }
